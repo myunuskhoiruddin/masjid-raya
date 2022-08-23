@@ -1,0 +1,17 @@
+{
+  "name": "Masjid Raya Negara",
+  "short_name": "Masjid Raya Negara",
+  "description": "Masjid Raya Negara merupakan salah satu tempat ibadah umat Islam di Kabupaten Jembrana.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#00ce5f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/images/png/favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
